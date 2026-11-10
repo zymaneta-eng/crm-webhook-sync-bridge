@@ -77,7 +77,13 @@ Tested under stress load simulating simultaneous e-commerce flash sales:
 +------------------------------------------------------------------------------------+
 ```
 
-*(Visual UI screenshots will be added to the `/screenshots` gallery).*
+![документація API](screenshots/03_api_docs.png)
+
+![підсумок тестів](screenshots/01_tests.png)
+
+![довідка CLI](screenshots/04_cli_1.png)
+
+Усі скріншоти (5): [screenshots/](screenshots/README.md)
 
 ---
 
