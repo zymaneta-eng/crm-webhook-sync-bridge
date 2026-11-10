@@ -1,2 +1,21 @@
-# Screenshots Gallery
-Drop production UI screenshots here.
+# Screenshots
+
+### підсумок тестів
+
+![підсумок тестів](01_tests.png)
+
+### виклик API і відповідь
+
+![виклик API і відповідь](03_api_call1_get-events.png)
+
+### виклик API і відповідь
+
+![виклик API і відповідь](03_api_call2_post-events-retry-pending.png)
+
+### документація API
+
+![документація API](03_api_docs.png)
+
+### довідка CLI
+
+![довідка CLI](04_cli_1.png)
